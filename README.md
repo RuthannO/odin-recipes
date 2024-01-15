@@ -1,1 +1,1 @@
-basic recipe website to practice html
+basic recipe website to practice html and commits
